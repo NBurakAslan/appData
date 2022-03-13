@@ -1,0 +1,17 @@
+{
+  "name": "dataapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dataApi.js",
+  "scripts": {
+    "start": "node dataApi.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.15"
+  },"engines": {"node":">=10.0.0"}
+}
